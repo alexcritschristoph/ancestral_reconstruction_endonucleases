@@ -15,7 +15,7 @@ Here, we perform phylogenetic inference reconstruction across 15 nonrecombinant 
 
 From these results we can reach a number of conclusions:
 
-1. **65/66 of the nucleotides in restriction enzyme cut-sites were already shared by the ancestor of SARS-CoV-2 and natural bat viruses**. This finding directly demonstrates the natural origin and evolution of 65 out of 66 of the sites proposed as candidates for engineering by Bruttel et al, and thus almost all of the endonuclease 'fingerprint'. The sequence in SARS-CoV-2 at these positions was not altered since ancestral recombination events with bats.
+1. **65/66 of the nucleotides in restriction enzyme cut-sites were already shared by the ancestor of SARS-CoV-2 and natural bat viruses**. This finding directly demonstrates the natural origin and evolution of 65 out of 66 of the sites proposed as candidates for engineering by Bruttel et al, and thus almost all of the endonuclease 'fingerprint'. The sequence in SARS-CoV-2 at these positions was not altered since ancestral recombination events with bat coronaviruses.
 
 2. The masking of even all possible restriction enzyme cut sites in the alignment did not significantly alter local tree topologies. This is as expected, as the masked sites form approximately 1% of the total alignment, and an even smaller fraction of the segregating sites.
 
